@@ -31,4 +31,5 @@
 - [MixPush](https://github.com/joyrun/MixPush?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 - [OnePush](https://github.com/pengyuantao/OnePush)
 - [LitePal操作数据库](https://github.com/LitePalFramework/LitePal)
--
+- [BaseRecyclerViewAdapterHelper](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)
+- [XBanner广告轮播图](https://github.com/xiaohaibin/XBanner)

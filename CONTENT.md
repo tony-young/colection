@@ -36,3 +36,5 @@
 - [JiaoZiVideoPlayer视频播放](https://github.com/lipangit/JiaoZiVideoPlayer)
 - [AVLoadingIndicatorView加载动画库](https://github.com/81813780/AVLoadingIndicatorView)
 - [PictureSelector图片选择框架](https://github.com/LuckSiege/PictureSelector)
+- [butterknife](https://github.com/JakeWharton/butterknife)
+- [EasyPopup弹窗](https://github.com/zyyoona7/EasyPopup)
